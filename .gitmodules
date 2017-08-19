@@ -1,0 +1,9 @@
+[submodule "Yelp-data"]
+	path = Yelp-data
+	url = git@github.com:desaiuditd/Yelp-data.git
+[submodule "yelp-api"]
+	path = yelp-api
+	url = git@github.com:desaiuditd/wayfarer-yelp-data.git
+[submodule "mobile-app-react"]
+	path = mobile-app-react
+	url = git@github.com:MahendraMhatre/WayFarer.git
